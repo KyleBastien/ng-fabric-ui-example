@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('ng-fabric-ui-consumer App', () => {
+describe('ng-fabric-ui-example App', () => {
   let page: AppPage;
 
   beforeEach(() => {
