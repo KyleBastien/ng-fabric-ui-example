@@ -3635,9 +3635,9 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
 
-ng-fabric-ui@^0.0.0:
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/ng-fabric-ui/-/ng-fabric-ui-0.0.0.tgz#ecb667e2e584423cff1b91ec2a5510145da6d536"
+ng-fabric-ui@0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/ng-fabric-ui/-/ng-fabric-ui-0.0.1.tgz#ee5124e0eb5d6f482e3729e19a0221cf179df502"
   dependencies:
     "@angular/animations" "^5.0.0"
     "@angular/common" "^5.0.0"
